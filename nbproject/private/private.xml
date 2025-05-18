@@ -5,8 +5,15 @@
         <group>
             <file>file:/D:/Taller%20de%20Programación/ProyectoFinalDAO/src/dao/IBaseDAO.java</file>
             <file>file:/D:/Taller%20de%20Programación/ProyectoFinalDAO/src/util/ConexionBD.java</file>
+            <file>file:/D:/Taller%20de%20Programación/ProyectoFinalDAO/src/businessEntity/Empleado.java</file>
+            <file>file:/D:/Taller%20de%20Programación/ProyectoFinalDAO/src/businessEntity/Usuario.java</file>
+            <file>file:/D:/Taller%20de%20Programación/ProyectoFinalDAO/src/dao/HorarioDAO.java</file>
+            <file>file:/D:/Taller%20de%20Programación/ProyectoFinalDAO/src/dao/UsuarioDAO.java</file>
             <file>file:/D:/Taller%20de%20Programación/ProyectoFinalDAO/src/Main.java</file>
             <file>file:/D:/Taller%20de%20Programación/ProyectoFinalDAO/src/dao/EmpleadoDAO.java</file>
+            <file>file:/D:/Taller%20de%20Programación/ProyectoFinalDAO/src/dao/AsistenciaDAO.java</file>
+            <file>file:/D:/Taller%20de%20Programación/ProyectoFinalDAO/src/businessEntity/Turno.java</file>
+            <file>file:/D:/Taller%20de%20Programación/ProyectoFinalDAO/src/dao/TurnoDAO.java</file>
         </group>
     </open-files>
 </project-private>
