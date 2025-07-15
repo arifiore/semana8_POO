@@ -48,14 +48,12 @@ CREATE TABLE Asistencia (
 );
 
 -- Tabla Usuario
-CREATE TYPE rol_usuario AS ENUM ('Administrador', 'Empleado');
 
 CREATE TABLE Usuario (
     id_usuario SERIAL PRIMARY KEY,
     id_empleado INT NOT NULL,
     username VARCHAR(50) NOT NULL UNIQUE,
     password VARCHAR(100) NOT NULL,
-    rol rol_usuario NOT NULL,
     estado BOOLEAN DEFAULT TRUE,
     FOREIGN KEY (id_empleado) REFERENCES Empleado(id_empleado)
 );
